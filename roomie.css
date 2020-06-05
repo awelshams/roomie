@@ -1,0 +1,149 @@
+*{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1em;
+}
+
+/* navbar styling */
+.colored-section {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.navbar-brand {
+    font-size: 3.5rem;
+    font-weight: bold;
+    margin-left: 5%;
+}
+
+.title-header h1{
+    color: white;
+    font-size: 3.5rem;
+    font-weight: bold;
+    margin-left: 10%;
+    text-align: left;
+}
+
+
+.btn-lg{
+    margin-left: 10%;
+    margin-top: 3%;
+}
+
+.btn-lgs{
+    margin-left: 0%;
+}
+
+.nav-item{
+    padding:0px 45px;
+}
+
+
+.navbar{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+/* features styling */
+.section{
+    margin-top: 4%;
+    text-align: center;
+    padding:10px 10px;
+    margin-bottom: 2%;
+}
+
+.features-header{
+    font-weight: bold;
+    margin-bottom: 4%;
+}
+
+.features-card{
+    text-align: center;
+}
+
+.features-icon{
+    color:#ff4c68;
+    margin-bottom: 2%;
+}
+
+/* carousel styling */
+.carousel-text{
+    text-align: center;
+    font-size: 3.5rem;
+    color: white;
+    margin-top: 2%;
+}
+
+.photo-album{
+    background-color:#ff4c68 ;
+}
+
+.carousel-img{
+    border-radius: 90%;
+    width: 30%;
+    height:30%;
+    margin-left: 30%;
+}
+
+em{
+    color: white;
+    text-align: center;
+    margin-left: 40%;
+}
+
+.colour{
+    background-color:#ff4c68;
+    text-align: center;
+    color: white;
+}
+
+.space{
+    margin-left: 6%;
+    margin-bottom: 4%;
+    margin-top: 4%;
+}
+
+/* pricing styling */
+.pricing-header p ,h1{
+    text-align: center;
+    margin-top: 2%;
+}
+.card{
+    margin-bottom: 4%;
+}
+.pricing-section{
+    padding-bottom: 3%;
+}
+
+.conclusion-section{
+    color: white;
+    background-color: #ff4c68;
+    text-align: center;
+    padding-top: 4%;
+    margin-bottom: 3%;
+}
+
+.conclusion-section p{
+    font-size: 2.5rem;
+
+}
+
+.btn-lg{
+    margin-bottom: 3%;
+}
+
+.conclusion-btn{
+    margin-left: 0;
+}
+
+/* footer styling */
+
+footer{
+    text-align: center;
+    margin-top: 3%;
+}
+
+footer i{
+    margin-bottom: 2%;
+    margin-left: 3%;
+}
+
